@@ -1,0 +1,1 @@
+Cinco filósofos alternan entre pensar y comer, necesitando dos tenedores (recursos limitados) para alimentarse. La implementación utiliza semáforos para representar los tenedores, evitando interbloqueos e inanición y asegurando que cada filósofo pueda comer de manera eficiente.
